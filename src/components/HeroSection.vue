@@ -14,7 +14,7 @@
             </h2><br><br>
              <!-- BOUTON CV -->
             <a
-                href="/cv/hasimbola-cv.pdf" 
+                :href="cvHasimbola" 
                 class="
                     inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-full shadow-lg hover:shadow-xl
                      transition-all duration-300 ease-in-out transform hover:scale-105
@@ -26,5 +26,8 @@
       </div>
     </section>
 </template>
+<script setup>
+    import cvHasimbola from '@/cv/cv-hasimbola.pdf'
+</script>
 
   
