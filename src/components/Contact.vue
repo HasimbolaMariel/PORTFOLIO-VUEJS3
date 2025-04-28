@@ -75,16 +75,16 @@
 
         <!-- Liens sociaux -->
         <div class="mt-8 flex justify-center space-x-6">
-          <a href="https://github.com/tonprofil" target="_blank" class="text-gray-800 hover:text-sky-400">
+          <a href="https://github.com/HasimbolaMariel" target="_blank" class="text-gray-800 hover:text-sky-400">
             <i class="fab fa-github text-2xl"></i>
           </a>
           <a href="mailto:randrianasoloniainamariel@gmail.com" class="text-gray-800 hover:text-sky-400">
             <i class="fas fa-envelope text-2xl"></i>
           </a>
-          <a href="https://www.linkedin.com/in/tonprofil/" target="_blank" class="text-gray-800 hover:text-sky-400">
+          <a href="#" target="_blank" class="text-gray-800 hover:text-sky-400">
             <i class="fab fa-linkedin text-2xl"></i>
           </a>
-          <a href="https://facebook.com/tonprofil" target="_blank" class="text-gray-800 hover:text-sky-400">
+          <a href="https://www.facebook.com/profile.php?id=100080878983480" target="_blank" class="text-gray-800 hover:text-sky-400">
             <i class="fab fa-facebook text-2xl"></i>
           </a>
         </div>
