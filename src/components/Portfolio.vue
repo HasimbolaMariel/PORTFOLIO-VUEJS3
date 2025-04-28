@@ -23,7 +23,7 @@
 
   
   const projects = [
-    { title: 'Site Portfolio Vue.js', description: 'Portfolio interactif développé avec Vue 3.', image:  portfolio },
+    { title: 'Site Portfolio Vue.js', description: 'Portfolio interactif développé avec Vue 3.', image:  portfolio, lien: '#', liengithub: 'https://github.com/HasimbolaMariel/PORTFOLIO-VUEJS3'},
     { title: 'Batman', description: 'Site vitrine responsive HTML5/CSS3.', image:  batman, lien: 'https://batman-hasimbola.vercel.app/', liengithub: 'https://github.com/HasimbolaMariel/SAYNA-HTMLCSS-BATMAN1'},
     { title: 'Black-Panther', description: 'Site vitrine responsive HTML5/CSS3.', image:  blackPanther, lien: 'https://black-panther-hasimbola.vercel.app/', liengithub: "https://github.com/HasimbolaMariel/SAYNA-JSTSCANVAS-PANTHER-072022"},
     

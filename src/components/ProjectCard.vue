@@ -21,7 +21,7 @@
              target="_blank" rel="noopener noreferrer"
             class="bg-white text-gray-800 font-semibold px-4 py-2 rounded hover:bg-gray-200 transform hover:scale-105 transition duration-300"
           >
-            Demo
+            Visiter le site
           </a>
           <a
             :href="project.liengithub"
