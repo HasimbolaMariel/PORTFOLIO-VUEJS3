@@ -1,5 +1,6 @@
 <template>
     <section
+      id="accueil"    
       class="
             h-[600px] bg-[url('/src/assets/images/fond.jpg')] bg-cover bg-center bg-no-repeat flex items-center justify-center
             mt-[-10px]

@@ -19,7 +19,7 @@
             :key="link.id"
             :href="`#${link.id}`"
             :class="[
-              'block py-2 text-gray-700 relative after:block after:mt-1 after:h-0.5 after:bg-sky-400 after:scale-x-0 after:origin-left hover:after:scale-x-100 hover:text-sky-400 transition-all duration-300 ease-in-out',
+              'w-full block py-2 text-gray-700 relative after:block after:mt-1 after:h-0.5 after:bg-sky-400 after:scale-x-0 after:origin-left hover:after:scale-x-100 hover:text-sky-400 transition-all duration-300 ease-in-out',
               activeSection === link.id ? 'text-sky-500 after:scale-x-100' : ''
             ]"
             @click="isOpen = false"

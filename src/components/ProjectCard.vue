@@ -4,7 +4,7 @@
       data-aos="fade-up"
       data-aos-delay="100"
     >
-      <!-- Fond uni (ou image plus tard) -->
+      <!--  Image du projet  -->
       <div :class="[ 'h-60 w-full']">
         <img :src="project.image" alt="" class="h-full w-full">
       </div>
