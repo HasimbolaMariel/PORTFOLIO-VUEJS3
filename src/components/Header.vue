@@ -39,7 +39,7 @@
   
   const links = [
     { id: 'accueil', label: 'Accueil' },
-    { id: 'about', label: 'À propos' },
+    { id: 'about', label: 'À_propos' },
     { id: 'education', label: 'Éducation' },
     { id: 'skills', label: 'Compétences' },
     { id: 'portfolio', label: 'Portfolio' },
